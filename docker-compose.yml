@@ -1,0 +1,13 @@
+
+services:
+  my-blog:
+    build: .  
+    container_name: my-blog  
+    ports:
+      - "3000:3000"  
+    volumes:
+      - my-blog-data:/app/data  
+
+volumes:
+  my-blog-data:
+    driver: local  

@@ -20,7 +20,7 @@ export default function Contact() {
             <div className="w-full md:w-2/3 flex flex-col justify-center">
               <h1 className="text-4xl font-bold text-gray-800 dark:text-white mb-4">Contact Me</h1>
               <p className="text-gray-600 dark:text-gray-50 text-lg mb-4">
-                Hi! I'm a 3rd-year B.Tech student at Lovely Professional University (LPU). I'm passionate about software development and eager to connect with like-minded individuals, mentors, or collaborators.
+                Hi! I&apos;sm a 3rd-year B.Tech student at Lovely Professional University (LPU). I&apos;sm passionate about software development and eager to connect with like-minded individuals, mentors, or collaborators.
               </p>
               <p className="text-gray-600 dark:text-gray-50 text-lg">
                 Feel free to reach out if you have opportunities, suggestions, or just want to chat about tech and development!
